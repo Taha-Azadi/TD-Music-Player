@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Taha-Azadi/TD-Music-Player/main/asset/banner.png" alt="TD Music Player Banner" width="100%">
+<img src="asset/banner.png" alt="TD Music Player Banner" width="100%">
 
 # 🎵 TD Music Player
 
