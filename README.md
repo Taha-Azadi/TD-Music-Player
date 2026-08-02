@@ -86,17 +86,6 @@ TD Music Player is not just another music player — it is a **complete desktop 
 | **Media Keys** | Support for keyboard media keys *(planned v1.1.0)* |
 | **Auto-generated Icons** | All 18+ UI icons are generated at runtime — no external assets needed |
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-| Main Player | Library View | Lyrics Mode |
-|:-----------:|:------------:|:-----------:|
-| ![Main](https://via.placeholder.com/400x300/121212/1DB954?text=Main+Player) | ![Library](https://via.placeholder.com/400x300/121212/1DB954?text=Library+View) | ![Lyrics](https://via.placeholder.com/400x300/121212/1DB954?text=Lyrics+Mode) |
-
-</div>
 
 ---
 
