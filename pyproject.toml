@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "td-music-player"
+version = "1.0.0"
+description = "A modern, professional music player built with Python"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Taha Azadi"}]
+urls = {Homepage = "https://github.com/Taha-Azadi/TD-Music-Player"}
+requires-python = ">=3.8"
+dependencies = [
+    "customtkinter>=5.2.0",
+    "pygame>=2.5.0",
+    "Pillow>=10.0.0",
+    "mutagen>=1.47.0",
+]
+
+[project.optional-dependencies]
+tray = ["pystray>=0.19.0"]
+dev = ["pytest>=7.0", "black>=22.0"]
+
+[project.scripts]
+td-music = "td_music_player.main:main"
