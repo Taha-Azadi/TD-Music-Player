@@ -184,7 +184,7 @@ Our vision is to make TD Music Player the most powerful open-source music player
 - [x] Auto-generated UI icons
 - [x] Cross-platform support
 
-### 🔜 v1.0.1 — Stability & Polish *(ETA: August 2026)*
+### 🔜 v1.0.1 — Stability & Polish *(ETA: 2026 - 2027 )*
 - [ ] Drag & Drop file support into the player window
 - [ ] Mini player mode (compact floating window)
 - [ ] M3U playlist import/export
@@ -194,7 +194,7 @@ Our vision is to make TD Music Player the most powerful open-source music player
 - [ ] Persian/Arabic text rendering improvements
 - [ ] Auto-update checker
 
-### 🔜 v1.0.2 — Enhanced Library *(ETA: September 2026)*
+### 🔜 v1.0.2 — Enhanced Library *(ETA: 2026 - 2028 )*
 - [ ] Folder watcher (auto-detect new music)
 - [ ] Duplicate track detection
 - [ ] Bulk metadata editor (tag editor)
@@ -204,7 +204,7 @@ Our vision is to make TD Music Player the most powerful open-source music player
 - [ ] Year-based filtering
 - [ ] Smart playlists (auto-generated rules)
 
-### 🔜 v1.1.0 — Audio Enhancements *(ETA: October 2026)*
+### 🔜 v1.1.0 — Audio Enhancements *(ETA: 2026 - 2029 )*
 - [ ] Gapless playback
 - [ ] Crossfade between tracks (configurable duration)
 - [ ] ReplayGain volume normalization
@@ -213,14 +213,14 @@ Our vision is to make TD Music Player the most powerful open-source music player
 - [ ] WASAPI/ASIO exclusive mode (Windows)
 - [ ] Output device selection
 
-### 🔜 v1.2.0 — Online Features *(ETA: November 2026)*
+### 🔜 v1.2.0 — Online Features *(ETA: 2026 - 2030 )*
 - [ ] Last.fm scrobbling integration
 - [ ] Fetch metadata from MusicBrainz
 - [ ] Download album art from online sources
 - [ ] Fetch lyrics from online APIs (LRCLIB, etc.)
 - [ ] YouTube Music / Spotify import (playlist sync)
 
-### 🔜 v1.3.0 — Advanced Features *(ETA: December 2026)*
+### 🔜 v1.3.0 — Advanced Features *(ETA: 2026 - 2031 )*
 - [ ] Podcast support (RSS feed parsing)
 - [ ] Audio converter (transcode formats)
 - [ ] CD ripping support
@@ -228,7 +228,7 @@ Our vision is to make TD Music Player the most powerful open-source music player
 - [ ] Web interface (control from browser)
 - [ ] Plugin system for third-party extensions
 
-### 🔮 v2.0.0 — The Future *(ETA: 2027)*
+### 🔮 v2.0.0 — The Future *(ETA: 2026 - 2032 )*
 - [ ] Completely rewritten audio engine (FFmpeg-based)
 - [ ] Video playback support (music videos)
 - [ ] Cloud sync (Google Drive / Dropbox)
